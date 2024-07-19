@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "3.0",
+	"FriendlyName": "Vertex Anim Toolset V3",
+	"Description": "Tools for baking Skeletal Mesh animation into textures to animate meshes through the material shader",
+	"Category": "Rendering",
+	"CreatedBy": "Hethger",
+	"CreatedByURL": "https://forums.unrealengine.com/member.php?133197-Hethger",
+	"DocsURL": "https://www.dropbox.com/s/ijeva2sifkanzk6/Vertex%20Anim%20Toolset%20Documentation.pdf?dl=0",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d998b22372a44975b312e85cf663bbab",
+	"SupportURL": "https://forums.unrealengine.com/community/work-in-progress/1674329-vertex-animation-toolset-crowd-rendering",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true
+}

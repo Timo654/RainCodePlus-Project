@@ -1,0 +1,5 @@
+#include "RCNazoBattleKaijinGroupDisturbLetterPositionSettings.h"
+
+FRCNazoBattleKaijinGroupDisturbLetterPositionSettings::FRCNazoBattleKaijinGroupDisturbLetterPositionSettings() {
+}
+
